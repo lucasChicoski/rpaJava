@@ -1,0 +1,1 @@
+java -jar .\my-jar\PIMS-2.0.jar
